@@ -19,7 +19,7 @@ _Get started using GitHub in less than an hour._
   Define terms and link to docs.github.com.
 -->
 
-## Step 2: Commit a file
+## Step 2: Commit a file yano message
 
 _You created a branch! :tada:_
 
